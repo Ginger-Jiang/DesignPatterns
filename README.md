@@ -1,1 +1,5 @@
-# DesignPatterns
+# 设计模式
+
+## 思维导图
+
+![设计模式](./image/设计模式.jpg)
